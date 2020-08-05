@@ -17,12 +17,10 @@ Here are some ideas to get you started:
 
 # Abel Tonon Segundo
 
-## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
+## Fala, galera! 👋
+Amante de novas (e velhas) tecnologias :computer:
 
- :rocket:  &nbsp; Estou trabalhando com projetos elétricos.
- <br/> :purple_heart: &nbsp; Buscando por aprendizado
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
+ :city_sunset: &nbsp; Trabalhando com projetos elétricos
+ <br/> :bulb: &nbsp;  Aprendendo desenvolvimento web utilizando ReactJS e Node.js
+ <br/> :clown_face: &nbsp; Cursando análise e desenvolvimento  de sistemas :computer: e engenharia elétrica :zap:
+ <br/> 💬  &nbsp; Amo novas tecnologias, games de FPS frenético a baseados em turnos, competições, automação e musculação
