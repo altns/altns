@@ -1,26 +1,11 @@
-<!--
-**altns/altns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Abel Tonon
 
-### Hi there 👋
+## Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Abel Tonon Segundo
-
-## Fala, galera! 👋
-Amante de novas (e velhas) tecnologias :computer:
-
- :city_sunset: &nbsp; Trabalhando com projetos elétricos
- <br/> :bulb: &nbsp;  Aprendendo desenvolvimento web utilizando ReactJS e Node.js
- <br/> :clown_face: &nbsp; Cursando análise e desenvolvimento  de sistemas :computer: e engenharia elétrica :zap:
- <br/> 💬  &nbsp; Amo novas tecnologias, games de FPS frenético a baseados em turnos, competições, automação e musculação
+- 🔭 I’m currently working on Capgemini
+- 🌱 I’m currently learning architectures and automated tests
+- 🤔 I’m looking for help with automated tests
+- 💬 Ask me about anything
+- 📫 How to reach me: /abeltonon on linkedin
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i love coffee but it hurts my stomach
